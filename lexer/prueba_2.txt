@@ -1,0 +1,17 @@
+fn sistema_principal() {
+    let mut activo: bool = true;
+    let x = 100;
+    let y = 50;
+
+    if activo == true {
+        let resultado = x + y - 10;
+        return resultado;
+    } else {
+        activo = false;
+    }
+
+    /* no fueron definidos asi que deberian dar error lexico
+     */
+    let error_simbolo = @;
+    let error_decimal = 3.14;
+}
