@@ -49,6 +49,7 @@ El lenguaje **L** es un subconjunto simplificado de Rust que permite la declarac
     ```
 ---
 **Autores:** Ariadna Avila, Roxana Moreno, Hector Vasquez 
+
 **Institución:** UNEG - Ingeniería en Informática  
 
 **Asignatura:** Lenguajes y Compiladores
